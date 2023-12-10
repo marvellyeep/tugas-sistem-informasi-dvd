@@ -9,6 +9,10 @@ Sistem informasi kasir penyewaan DVD
 
  git clone https://github.com/marvellyeep/tugas-sistem-informasi-dvd
 
+ atau bisa juga download zip lalu extrak berkas hasil download ke \xampp\htdocs 
+
+ rename tugas-sistem-informasi-dvd menjadi sewadvd2
+
 5. Buka di browser: localhost/tugas-sistem-informasi-dvd, ini menggunakan port default (80). Jika tidak bisa, kemungkinan port Apache sudah diganti dan gunakan localhost:<port>/tugas-sistem-informasi-dvd
 
 6. Tampilan akan menunjukan error database tidak ditemukan:
