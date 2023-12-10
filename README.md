@@ -11,8 +11,6 @@ Sistem informasi kasir penyewaan DVD
 
  atau bisa juga download zip lalu extrak berkas hasil download ke \xampp\htdocs 
 
- rename tugas-sistem-informasi-dvd menjadi sewadvd2
-
 5. Buka di browser: localhost/tugas-sistem-informasi-dvd, ini menggunakan port default (80). Jika tidak bisa, kemungkinan port Apache sudah diganti dan gunakan localhost:<port>/tugas-sistem-informasi-dvd
 
 6. Tampilan akan menunjukan error database tidak ditemukan:
@@ -21,4 +19,4 @@ Sistem informasi kasir penyewaan DVD
 
 8. Import > file dengan update terbaru berada di \tugas-sistem-informasi-dvd\sewadvd2.sql 
 
-9. Kembali ke localhost/sewa_dvd > refresh
+9. Kembali ke localhost/tugas-sistem-informasi-dvd > refresh
