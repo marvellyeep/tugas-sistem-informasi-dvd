@@ -7,7 +7,7 @@ Sistem informasi kasir penyewaan DVD
 
 3. Clone repositori pada \xampp\htdocs
 
-4. git clone https://github.com/marvellyeep/tugas-sistem-informasi-dvd
+ git clone https://github.com/marvellyeep/tugas-sistem-informasi-dvd
 
 5. Buka di browser: localhost/tugas-sistem-informasi-dvd, ini menggunakan port default (80). Jika tidak bisa, kemungkinan port Apache sudah diganti dan gunakan localhost:<port>/tugas-sistem-informasi-dvd
 
